@@ -10,13 +10,13 @@
 🥰 This program is used for the RakNong66 Event at Mahidol University. The event aims to welcome freshmen to Mahidol and includes activities such as ice-breaking, making new friends, providing information about Mahidol, and a free concert.
 
 <h2> Dependencies </h2>
-- `os`: For interacting with the operating system.
-- `openpyxl`: For reading Excel files.
-- `qrcode`: For generating QR codes.
-- `re`: For regular expressions.
-- `cv2` (OpenCV): For image processing.
-- `numpy`: For numerical computing.
-- `PIL`: For image processing.
+- `os`: For interacting with the operating system. <br>
+- `openpyxl`: For reading Excel files. <br>
+- `qrcode`: For generating QR codes. <br>
+- `re`: For regular expressions. <br>
+- `cv2` (OpenCV): For image processing. <br>
+- `numpy`: For numerical computing. <br>
+- `PIL`: For image processing. <br>
 
 <h2> Installation </h2>
 1. Install the required dependencies: "pip install openpyxl qrcode opencv-python-headless numpy pillow"
