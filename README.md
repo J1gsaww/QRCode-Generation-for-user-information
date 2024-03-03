@@ -32,9 +32,9 @@
 - Ensure that the ticket template (`ticket_template.png`) contains a green square placeholder where the QR code will be inserted.
 <br>
 - The color code of green square (RGB): #1CFF00 
-
+<br>
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2cydXNuNzE1N2Z4OWJ4eWI4Nm95eGZuMzgzb2tmdjVobW02YXFsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W5zRsYKAxHLSo5xZx7/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNrb2Jxc3EzcTZpcHhwbjVkODN1NzJpcHhoeW52Y245cnl1NHgxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3q2PVucWrPPZgZqNf8/giphy.gif"  />
 </div>
 
 
